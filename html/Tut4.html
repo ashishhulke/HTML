@@ -3,49 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>List & Tables</title>
+    <title>IDs & Classes in HTML</title>
 </head>
 <body>
-    <!-- Order & unorder List -->
-     <h2>List</h2>
-    <ul>
-        <li>This is My First Item of unorder List</li>
-        <li>This is My Second Item of unorder List</li>
-        <li>This is My Third Item of unorder List</li>
-    </ul>
-    <ol>
-        <li>This is My First Item of order List</li>
-        <li>This is My Second Item of order List</li>
-        <li>This is My Third Item of order List</li>
-    </ol>
-    <hr>
-    <!-- Tables -->
-    <h2>HTML Table</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Employee ID</th>
-                <th>Employee Name</th>
-                <th>Employee Role</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>101</td>
-                <td>Ashish</td>
-                <td>CI</td>
-            </tr>
-            <tr>
-                <td>102</td>
-                <td>Abhi</td>
-                <td>SD</td>
-            </tr>
-            <tr>
-                <td>103</td>
-                <td>Khush</td>
-                <td>HR</td>
-            </tr>
-        </tbody>
-    </table>
+    <h2>IDs & Classes in HTML</h2>
+    <div id="mainBox" class="redbg">
+        this is mainbox
+    </div>
+    <!-- . is for Class & # is for Id -->
+    <span class="redBG"></span>
+    <span id="mainSpan"></span>
+    <!-- emmet takes div as default -->
+     <div class="blackbackground"></div>
+     <!-- Crating multiple element using Emmet -->
+      <!-- span.myClass1.myClass2.myClass3 + <tab> -->
+      <span class="myClass1 myClass2 myClass3">First</span>
+      <span class="myClass1 myClass2 myClass3">Second</span>
+      <span class="myClass1 myClass2 myClass3">Third</span>
+      <span class="myClass1 myClass2 myClass3">Fourth</span>  
 </body>
 </html>
