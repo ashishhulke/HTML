@@ -1,0 +1,154 @@
+link
+
+<html>
+<head>
+</head>
+<body>
+<p style=color:green;text-align:center>ganya chutiya</p>
+<img src="C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot (3).png">
+<a href=https://www.onlinegdb.com/online_c_compiler>this is link</a>
+<p title=harsh>ganya guygabuasb sbhbauhb</p>
+</body>
+</html>
+
+
+background color
+
+
+<html>
+<head>
+</head>
+<body>
+<h1 style=background-color:red>this is it</h1>
+<h1 style=background-color:blue>lol lolo lol</h1>
+<a style=background-color:yellow href=file:///C:/Users/harsh/OneDrive/Desktop/ganya.html>link</a>
+<a style=background-color:lightblue href=file:///C:/Users/harsh/OneDrive/Desktop/ganya.html>link</a>
+</body>
+</html>
+
+
+list
+
+
+<html>
+<ul>
+<li>harsh</li>
+<li>hulke</li>
+<li>unordered</li>
+<li>list</li>
+</ul>
+
+<hr>
+<ol>
+<li>harsh</li>
+<li>hulke</li>
+<li>ordered</li>
+<li>list</li>
+</ol>
+<hr>
+
+<dl>
+<ol><li>
+<dt><b>data tag</b></dt>
+<ul><li><dd>defination of data tag</dd></li></ul>
+
+<dt><b>ganya</b></dt>
+<ul><li><dd>ganya is hacker </dd></li></ul>
+</li></ol>
+</dl>
+</html>
+
+
+heading
+
+
+
+<html>
+<head>
+</head>
+<body>
+<h1>this heading tag 1</h1>
+<h2>this heading tag 2</h2>
+<h3>this heading tag 3</h3>
+<h4>this heading tag 4</h4>
+<h5>this heading tag 5</h5>
+<h6>this heading tag 6</h6>
+<p>this is for <br> break the line and coontinue from another line</p>
+<p>this is for <hr> to break and draw the hprizontal linebetween two sentence</p>
+</body>
+</html>
+
+
+
+tags
+
+
+<html>
+<head>
+</head>
+<body>
+<p>this is  <strong> 	bold text </strong> </p>
+<p>this is <em> 		italic text </em> </p>
+<p>this is <mark> 	highlighted text </mark> </p>
+<p>this is <ins> 		underline text text </ins> </p>
+<p>this is <sup> 		above the text </sup> </p>
+<p>this is <sub> 		below the text </sub> </p>
+</body>
+</html>
+
+
+
+<html>
+<head>
+</head>
+<body>
+<p><abbr title=harsh>this is abbrivation tag</abbr></p>
+<p><dfn>this is dfn tag</dfn></p>
+<p><blockquote>this is blockquote tag</blockquote></p>
+<p><q>this is quote tag</q></p>
+<p><code>this is code tag</code></p>
+<p><>this is kbd tag<></p>
+<a href="https://www.onlinegdb.com/online_c_compiler">link</a>
+
+
+
+</body>
+</html>
+
+
+
+image link
+
+
+<html>
+
+<a href="https://www.onlinegdb.com/online_c_compiler"><img src="C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot (10).png"width="500px"height="500px" >
+</a>
+<br>
+<p>in image there is link if we click on image we directly go on that link </p>
+</html>
+
+
+table
+
+
+<html>
+<table border="2">
+<tr><th>harsh</th>
+<th>hulke</th></tr>
+<tr><td>40</td><td>50</td></tr>
+<tr><td>70</td><td>80</td></tr>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
